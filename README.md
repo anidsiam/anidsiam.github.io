@@ -24,9 +24,9 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
   Instagram : https://instagram.com/anidsiam
   
 ## Education
-- B.B.A, Finance | College of Business Science and Technology (_Enrolled_)
-- H.S.C, Business Studies | Govt. Ananda Mohan College, Mymensingh (_2020_)
-- S.S.C, Science | Border Guard Public School & College, Mymensingh (_2017_)
+- B.B.A (Finance) :  College of Business Science and Technology (_Enrolled_)
+- H.S.C (Business Studies) : Govt. Ananda Mohan College, Mymensingh (_2020_)
+- S.S.C (Science) : Border Guard Public School & College, Mymensingh (_2017_)
 
 ## Course Summary
 ### Course 1
@@ -37,6 +37,7 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 - Location            : Doha, Qatar 
 - Duration            : 12 Month
 - Course Types        : Online Course
+
 ### Course 2
 - Course Title        : FinTech: Foundations & Application of FinTech
 - Topic               : Blockchain, Smart Contract, Smart Trading System
