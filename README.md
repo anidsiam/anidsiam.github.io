@@ -19,7 +19,8 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 - Meta Marketing: Analysis markets and customer’s data to create campaigns, 
   get good TV Scores, Target and retarget customers for increased sales.
 - Writer and Editor of different types of content at blog and newsletter.                                                   
-  Newsletter : https://anidsiam.substack.com | Medium : https://anidsiam.medium.com
+  Newsletter : https://anidsiam.substack.com                                                                                
+  Medium : https://anidsiam.medium.com
 - Practice fashion photography at Instagram (Non-Professional) 
   Instagram : https://instagram.com/anidsiam
   
