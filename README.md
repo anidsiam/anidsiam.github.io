@@ -24,7 +24,7 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
   Instagram : https://instagram.com/anidsiam
   
 ## Education
-- B.B.A in Finance at College of Business Science and Technology (_Enrolled_)
+- B.B.A in Finance at College of Business Science and Technology (_Enrolled 2022_)
 - H.S.C in Business Studies at Govt. Ananda Mohan College Mymensingh (_2020_)
 - S.S.C in Science at Border Guard Public School & College Mymensingh (_2017_)
 
