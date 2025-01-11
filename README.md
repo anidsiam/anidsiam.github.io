@@ -24,9 +24,9 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
   Instagram : https://instagram.com/anidsiam
   
 ## Education
-- B.B.A (_Finance_) |  College of Business Science and Technology (_Enrolled_)
-- H.S.C (_Business Studies_) | Govt. Ananda Mohan College Mymensingh (_2020_)
-- S.S.C (_Science_) | Border Guard Public School & College Mymensingh (_2017_)
+- B.B.A in Finance at College of Business Science and Technology (_Enrolled_)
+- H.S.C in Business Studies at Govt. Ananda Mohan College Mymensingh (_2020_)
+- S.S.C in Science at Border Guard Public School & College Mymensingh (_2017_)
 
 ## Course Summary
 ### Course 01
