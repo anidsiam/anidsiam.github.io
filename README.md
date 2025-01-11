@@ -1,4 +1,5 @@
 ## Analyst | Portfolio Manager | Writer
+#### Finance, Financial Markets, FinTech
 ### Area of Expertise :
 - Analysis data of Finance, Financial markets, Micro and Macro economic data.
 - Trading account and portfolio managing at Forex, Metals, International 
