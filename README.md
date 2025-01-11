@@ -1,4 +1,4 @@
-# Financial Market's Analyst & Portfolio Manager
+## Financial Market's Analyst & Portfolio Manager
 ## Experience
 Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 ### Duties/Responsibilities
@@ -20,7 +20,7 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 - Writer and Editor of different types of content at blog and newsletter.                                                   
   Newsletter : https://anidsiam.substack.com                                                                                
   Medium : https://anidsiam.medium.com
-- Practice fashion photography at Instagram (Non-Professional) 
+- Practice fashion photography at Instagram (Non-Professional)                                                            
   Instagram : https://instagram.com/anidsiam
   
 ## Education
@@ -38,7 +38,7 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 - Duration            : 12 Month
 - Course Types        : Online Course
 ### Course 2
-- Course Title      : FinTech: Foundations & Application of FinTech
+- Course Title        : FinTech: Foundations & Application of FinTech
 - Topic               : Blockchain, Smart Contract, Smart Trading System
 - Institute           : Coursera, Offered by (University of Pennsylvania)
 - Instructor          : Christopher Geczy, Adjunct Professor of Finance
@@ -49,7 +49,7 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 ## Training Summary
 - Training Title        : Quality Assurance & Report Writing
 - Topic                 : AQL and Fundamentals of RMG
-- Institute             : Square Fashion Ltd.			: 
+- Institute             : Square Fashion Ltd.
 - Location              : Bhaluka, Mymensingh 
 - Duration              : 03 Month
 - Training Types        : On Site
