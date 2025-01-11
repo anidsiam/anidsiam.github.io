@@ -55,6 +55,4 @@ Duration              : 03 Month
 Training Types        : On Site
 
 ## Language Proficiency
-English : Level B1
-German  : Level A1
-Bengali : Level C2 
+English : Level B1                                                                                                    German  : Level A1                                                                                                    Bengali : Level C2 
