@@ -1,5 +1,5 @@
 ## Financial Market's Analyst & Portfolio Manager
-### Area of Tasks
+### Area of Expertise :
 - Analysis data of Finance, Financial markets, Micro and Macro economic data.
 - Trading account and portfolio managing at Forex, Metals, International 
   stocks and Index (Day trading, Swing trading and Investment)
@@ -12,7 +12,7 @@
 - Sentimental Analysis: COT reports, Smart money, Liquidity pool and others 
   market’s data to predict the market movements.
 
-## Skills
+## Skills :
 - Meta Marketing: Analysis markets and customer’s data to create campaigns, 
   get good TV Scores, Target and retarget customers to increased sales.
 - Writer and Editor of different types of content at blog and newsletter.                                                   
@@ -21,13 +21,13 @@
 - Practice fashion photography at Instagram (Non-Professional)                                                            
   Instagram : https://instagram.com/anidsiam
   
-## Education
-- B.B.A in Finance at College of Business Science & Technology (_Enrolled_)
+## Education :
+- B.B.A in Finance at College of Business Science & Technology (_2026_)
 - H.S.C in Business Studies at Govt. Ananda Mohan College (_2020_)
 - S.S.C in Science at Border Guard Public School & College (_2017_)
 
-## Course Summary
-### Course 01
+## Course Summary :
+### Course 01 :
 - Course Title        : Analytical study of Finance and Financial Markets
 - Topic               : Trading and Investment skill Development  
 - Institute           : Pro-Investor Hub
@@ -36,7 +36,7 @@
 - Duration            : 12 Month
 - Course Types        : Online Course
 
-### Course 02
+### Course 02 :
 - Course Title        : FinTech: Foundations & Application of FinTech
 - Topic               : Blockchain, Smart Contract, Smart Trading System
 - Institute           : Coursera, Offered by (University of Pennsylvania)
@@ -45,7 +45,7 @@
 - Duration            : 12 Month
 - Course Type         : Online Course
 
-## Training Summary
+## Training Summary :
 - Training Title        : Quality Assurance & Report Writing
 - Topic                 : AQL and Fundamentals of RMG
 - Institute             : Square Fashion Ltd.
@@ -53,7 +53,7 @@
 - Duration              : 03 Month
 - Training Types        : On Site
 
-## Language Proficiency
+## Language Proficiency :
 - English : Level B1
 - German  : Level A1
 - Bengali : Level C2 
