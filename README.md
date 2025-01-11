@@ -1,5 +1,4 @@
 # Financial Market's Analyst & Portfolio Manager
-
 ## Experience
 Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 ### Duties/Responsibilities
@@ -30,29 +29,30 @@ Data analyst and Trader of financial Markets – (January 2022 - February 2024)
 - S.S.C, Science | Border Guard Public School & College, Mymensingh (_2017_)
 
 ## Course Summary
-**Course Title        : Analytical study of Finance and Financial Markets
-Topic               : Trading and Investment skill Development  
-Institute           : Pro-Investor Hub
-Instructor          : Dr. Kazi Monzure Khuda
-Location            : Doha, Qatar 
-Duration            : 12 Month
-Course Types        : Online Course
-
-**Course Title      : FinTech: Foundations & Application of FinTech
-Topic               : Blockchain, Smart Contract, Smart Trading System
-Institute           : Coursera, Offered by (University of Pennsylvania)
-Instructor          : Christopher Geczy, Adjunct Professor of Finance
-Location            : Mountain View, CA 94040, United States
-Duration            : 12 Month
-Course Type         : Online Course
+### Course 1
+- Course Title        : Analytical study of Finance and Financial Markets
+- Topic               : Trading and Investment skill Development  
+- Institute           : Pro-Investor Hub
+- Instructor          : Dr. Kazi Monzure Khuda
+- Location            : Doha, Qatar 
+- Duration            : 12 Month
+- Course Types        : Online Course
+### Course 2
+- Course Title      : FinTech: Foundations & Application of FinTech
+- Topic               : Blockchain, Smart Contract, Smart Trading System
+- Institute           : Coursera, Offered by (University of Pennsylvania)
+- Instructor          : Christopher Geczy, Adjunct Professor of Finance
+- Location            : Mountain View, CA 94040, United States
+- Duration            : 12 Month
+- Course Type         : Online Course
 
 ## Training Summary
-Training Title        : Quality Assurance & Report Writing
-Topic                 : AQL and Fundamentals of RMG
-Institute             : Square Fashion Ltd.			: 
-Location              : Bhaluka, Mymensingh 
-Duration              : 03 Month
-Training Types        : On Site
+- Training Title        : Quality Assurance & Report Writing
+- Topic                 : AQL and Fundamentals of RMG
+- Institute             : Square Fashion Ltd.			: 
+- Location              : Bhaluka, Mymensingh 
+- Duration              : 03 Month
+- Training Types        : On Site
 
 ## Language Proficiency
 - English : Level B1
