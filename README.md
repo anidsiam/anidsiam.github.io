@@ -1,4 +1,4 @@
-## Analyst | Portfolio Manager | Writer
+## Analyst | Account Manager | Writer
 #### Finance, Financial Market, FinTech, Analytics, Research
 ### Area of Expertise :
 - Analysis data of Finance, Financial markets, Micro and Macro economic data.
