@@ -1,7 +1,7 @@
 ## Analyst | Account Manager | Technical Writer
 #### Financial Market, FinTech, Develop, Data Annotation, AI and ML
 ### Area of Expertise:
-- Data Analysis of Financial markets at the scale of Micro and Macro economic.
+- Data Analysis of Financial markets at the scale of Micro and Macro economics.
 - Strategy management, Portfolio management, Financial and Risk management.
 - Fundamental Analysis: Magazines, Blogs, Economic calendar, Major financial 
   and economic news, etc. to understand strength and value of Major Stock,
