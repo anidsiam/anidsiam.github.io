@@ -39,7 +39,7 @@
 - Course Types        : Online Course
 
 ### Course 02:
-- Course Title        : FinTech: Foundations & Application of FinTech
+- Course Title        : Foundations and Application of FinTech
 - Topic               : Blockchain, Smart Contract, Smart Trading System
 - Institute           : Coursera, Offered by (University of Pennsylvania)
 - Instructor          : Christopher Geczy, Adjunct Professor of Finance
