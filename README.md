@@ -9,7 +9,7 @@
 - Technical Analysis: Candlesticks chart, Line chart, Indicator, object, 
   Graph and Charts, Statistical data and reports, etc.
 - Sentimental Analysis: CFTC's COT reports, Smart money, Liquidity pool and others 
-  market’s data to predict the market movements.
+  related data to predict the market movements.
 - Data annotation & leveling for Artificial Intelligence and Machine Learning Model.
 - Bounding Box, Polygon, KeyPoint annotation and tagging, Object tracking, Line annotation, Semantic Segmentation; etc.
 - Data collection, Web Analysis and research through technical tools and SaaS.
@@ -17,7 +17,7 @@
 ## Skills:
 - Meta Marketing: Analysis markets and customer’s data to create campaigns, 
   ensure good TV Scores, Target and retarget customers to increased sales.
-- Technical Writing, Editing different types of content for blog, newsletter, etc.                                                   
+- Technical/Informational Content Writing and Editing for for blog, newsletter, professional Communications; etc.                                                   
   Newsletter: https://anidsiam.substack.com                                                                                
   Medium: https://anidsiam.medium.com
 - Practice fashion photography at Instagram (Non-Professional)                                                            
