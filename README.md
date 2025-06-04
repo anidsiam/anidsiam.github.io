@@ -51,7 +51,7 @@
 - Training Title        : Information and Communication Technology
 - Topic                 : Communication, Content and Office Applications 
 - Institute             : IT Computer Center
-- Location              : Serda Ghosh Road, Mymensingh 2200 
+- Location              : Sarda Ghosh Road, Mymensingh 2200 
 - Duration              : 06 Month
 - Training Types        : On Site
 
