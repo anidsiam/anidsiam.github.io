@@ -1,6 +1,6 @@
-## Analyst | Account Manager | Writer
-#### Financial Market, FinTech, Analytics, AI and ML
-### Area of Expertise :
+## Analyst | Account Manager | Technical Writer
+#### Financial Market, FinTech, Data, AI and ML
+### Area of Expertise:
 - Data Analysis of Financial markets at the scale of Micro and Macro economic.
 - Strategy management, Portfolio management, Financial and Risk management.
 - Fundamental Analysis: Magazines, Blogs, Economic calendar, Major financial 
@@ -35,7 +35,7 @@
 - Duration            : 12 Month
 - Course Types        : Online Course
 
-### Course 02 :
+### Course 02:
 - Course Title        : FinTech: Foundations & Application of FinTech
 - Topic               : Blockchain, Smart Contract, Smart Trading System
 - Institute           : Coursera, Offered by (University of Pennsylvania)
@@ -44,7 +44,7 @@
 - Duration            : 12 Month
 - Course Type         : Online Course
 
-## Training Summary :
+## Training Summary:
 - Training Title        : Information and Communication Technology
 - Topic                 : Comminication, Content and Office Applications 
 - Institute             : IT Computer Center
@@ -52,7 +52,7 @@
 - Duration              : 06 Month
 - Training Types        : On Site
 
-## Language Proficiency :
+## Language Proficiency:
 - English : Level B1
 - German  : Level A1
 - Bengali : Level C2 
