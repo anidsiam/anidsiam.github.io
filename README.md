@@ -10,6 +10,10 @@
   Graph and Charts, Statistical data and reports, etc.
 - Sentimental Analysis: CFTC's COT reports, Smart money, Liquidity pool and others 
   market’s data to predict the market movements.
+- Data annotation & leveling for Artificial Intelligence and Machine Learning Model.
+- Data leveling through Bounding Box, Polygon, KeyPoint annotation and tagging,
+  Object tracking, Line annotation, Semantic Segmentation; etc.
+- Data collection, Web Analysis and research through technical tools and SaaS.
 
 ## Skills:
 - Meta Marketing: Analysis markets and customer’s data to create campaigns, 
