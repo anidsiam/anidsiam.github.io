@@ -12,7 +12,7 @@
   market’s data to predict the market movements.
 - Data annotation & leveling for Artificial Intelligence and Machine Learning Model.
 - Data leveling through Bounding Box, Polygon, KeyPoint annotation and tagging,
-  Object tracking, Line annotation, Semantic Segmentation; etc.
+  Object tracking, Line annotation & Semantic Segmentation.
 - Data collection, Web Analysis and research through technical tools and SaaS.
 
 ## Skills:
