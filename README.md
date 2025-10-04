@@ -1,27 +1,23 @@
 ## Analyst | Account Manager | Technical Writer
-#### Financial Market, FinTech, Development, Data Annotation, AI and ML
+#### Financial Market Analytics, Data Leveling, Computer Vision, AI and ML
 ### Area of Expertise:
 - Data Analysis of Financial markets at the scale of Micro and Macro economics.
 - Strategy management, Portfolio management, Financial and Risk management.
 - Fundamental Analysis: Magazines, Blogs, Economic calendar, Major financial 
   and economic news, etc. to understand strength and value of Major Stock,
-  Assets or specific instruments.
+  Assets or a specific instruments.
 - Technical Analysis: Candlesticks chart, Line chart, Indicator, object, 
   Graph and Charts, Statistical data and reports, etc.
 - Sentimental Analysis: CFTC's COT reports, Smart money, Liquidity pool and others 
   related data to predict the market movements.
-- Data annotation & leveling for Artificial Intelligence and Machine Learning Model.
-- Bounding Box, Polygon, KeyPoint annotation and tagging, Object tracking, Line annotation, Semantic Segmentation; etc.
-- Data collection, Web Analysis and research through technical tools and SaaS.
+- Data leveling and Computer Vision for AI and Machine Learning Model.
 
 ## Skills:
 - Meta Marketing: Analysis markets and customer’s data to create campaigns, 
   ensure good TV Scores, Target and retarget customers to increased sales.
-- Technical/Informational Content Writing and Editing for for blog, newsletter, professional Communications; etc.                                                   
+- Technical/Informational Content Writing and Editing for for blog, newsletter, professional Communications, etc.                                                   
   Newsletter: https://anidsiam.substack.com                                                                                
   Medium: https://anidsiam.medium.com
-- Practice fashion photography at Instagram (Non-Professional)                                                            
-  Instagram: https://instagram.com/anidsiam
   
 ## Education:
 - B.B.A in Finance at College of Business Science & Technology (_2026_)
