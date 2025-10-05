@@ -1,7 +1,6 @@
 title: ONIDUL I. SIYAM
 logo: /resume/assets/picture.jpg
 description: https://www.linkedin.com/in/anidsiam
+description: https://www.x.com/anidsiam
 show_downloads : true
 theme: jekyll-theme-minimal
-include:
-  - /resume/custom.css
