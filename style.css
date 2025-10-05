@@ -3,11 +3,13 @@ body {
   background-color: white;
   margin: 0;
   padding: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
+  text-align: center;
+}
+
+header {
+  background: #007acc;
+  color: white;
+  padding: 20px;
   text-align: center;
 }
 
