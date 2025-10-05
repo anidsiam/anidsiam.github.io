@@ -1,10 +1,13 @@
 body {
   font-family: Monaco, Consolas, "Courier New", monospace;
+  color: black;
+  background-color: white;
   margin: 0;
   padding: 0;
-  background: white;
-  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
   text-align: center;
 }
-  
-
