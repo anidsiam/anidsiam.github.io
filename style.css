@@ -1,5 +1,4 @@
 body {
-  font-family: Arial, sans-serif;
   color: black;
   background-color: white;
   margin: 0;
@@ -11,3 +10,14 @@ body {
   min-height: 100vh;
   text-align: center;
 }
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
