@@ -1,25 +1,32 @@
+
 body {
-  color: black;
-  background-color: white;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+    text-align: center;
 }
 
 header {
-  background: #007acc;
-  color: white;
-  padding: 20px;
-  text-align: center;
+    background-color: #f0f0f0;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: center;
 }
 
 footer {
-  background: #222;
-  color: white;
-  text-align: center;
-  padding: 10px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
-
