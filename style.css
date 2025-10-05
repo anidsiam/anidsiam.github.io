@@ -1,10 +1,10 @@
 body {
-  font-family: Monaco;
+  font-family: Monaco, Consolas, "Courier New", monospace;
   margin: 0;
   padding: 0;
   background: white;
   color: black;
-  text-align: center
+  text-align: center;
 }
   
 
