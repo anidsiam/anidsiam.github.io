@@ -1,11 +1,21 @@
-
-body {
+main {
     padding: 20px;
     background-color: #fff;
     font-family: Monaco, Consolas, monospace;
     color: black;
 }
 
+section {
+    margin-bottom: 24px;
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+}
+
+#Middle h3 {
+    font-size: 20px;
+    margin-bottom: 6px;
+    color: #007acc;
+}
 
 header {
     display: flex;
