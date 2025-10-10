@@ -11,11 +11,29 @@ section {
     border-bottom: 1px solid #ccc;
 }
 
+#Home h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
 #Middle h3 {
     font-size: 20px;
     margin-bottom: 6px;
     color: #007acc;
 }
+
+#Middle p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#Bottom p {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 0px;
+}
+
 
 header {
     display: flex;
