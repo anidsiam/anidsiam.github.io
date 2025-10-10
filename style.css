@@ -1,35 +1,115 @@
-
-body {
-    margin: 0;
-    padding: 0;
-    background-color: white;
+main {
+    padding: 20px;
+    background-color: #fff;
+    font-family: Monaco, Consolas, monospace;
     color: black;
-    text-align: center;
 }
+
+section {
+    margin-bottom: 24px;
+    padding: 12px;
+    border-bottom: 1px solid #ccc;
+}
+
+#Home h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+#Middle h3 {
+    font-size: 20px;
+    margin-bottom: 6px;
+    color: #007acc;
+}
+
+#Middle p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#Bottom p {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 0px;
+}
+
 
 header {
-    background-color: #f0f0f0;
-    color: black;
-    text-align: center;
-    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+    /* Tight spacing */
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+    font-family: Monaco, Consolas, monospace;
 }
 
-main {
-    background-color: white;
-    color: black;
-    padding: 20px;
+.left,
+.middle,
+.right {
+    flex: 1;
     text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    color: #007acc;
+}
+
+nav h1 {
+    font-size: 20px;
+    margin: 0;
+    font-weight: bold;
 }
 
 footer {
-    background-color: #f0f0f0;
-    color: black;
-    text-align: center;
-    padding: 20px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    z-index: 1000%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+    /* Tight spacing */
+    background-color: white;
+    border-top: 1px solid #ccc;
+    font-family: Monaco, Consolas, monospace;
+    font-size: 14px;
 }
 
+.left-footer,
+.middle-footer,
+.right-footer {
+    flex: 1;
+    text-align: center;
+}
 
+/* Align left and right sections */
+.left-footer {
+    text-align: left;
+}
+
+.right-footer {
+    text-align: right;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #007acc;
+}
