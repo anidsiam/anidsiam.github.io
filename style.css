@@ -5,7 +5,7 @@ header {
     justify-content: space-around;
     margin: 5px 300px;
     border-bottom: 1px solid gray;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: arial;
 }
 
 .left-header a h3,
