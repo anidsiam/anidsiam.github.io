@@ -5,7 +5,6 @@ header {
     justify-content: space-around;
     margin: 5px 300px;
     border-bottom: 1px solid gray;
-    font-family: arial;
 }
 
 .left-header a h3,
@@ -29,7 +28,6 @@ a h3:hover {
 main {
     text-align: center;
     margin: 0px 310px;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 footer {
@@ -40,5 +38,4 @@ footer {
     align-items: center;
     border: 1px solid gray;
     margin: 0px 300px;
-    font-family: 'Courier New', Courier, monospace;
 }
