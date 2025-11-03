@@ -5,47 +5,69 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>anidsiam</title>
-    <meta name="keywords" content="Onidul Islam Siyam, Indie Hacker, GitHub Pages, William J. Stockson, personal blog, portfolio">
+    <meta name="keywords"
+        content="Onidul Islam Siyam, Indie Hacker, GitHub Pages, William J. Stockson, personal blog, portfolio">
     <meta name="description" content="Personal website of Onidul Islam Siyam— showcasing web projects, resume">
     <meta name="author" content="Onidul Islam Siyam, anidsiam, @anidsiam">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="contact.css">
 </head>
+
 <body>
     <header>
-        <div class="left">
+        <div class="left-header">
             <nav>
-                <a href="/index.html"><h1>ANIDSIAM's BLOG</h1></a>
+                <a href="https://anidsiam.github.io/">
+                    <h3><b>anidsiam</b></h3>
+                </a>
             </nav>
         </div>
-        <div class="middle">
+        <div class="middle-header">
             <nav>
-                <a href="/resume"><h1>Professional Identity</h1></a>
+                <a href="/resume"><b>About</b></a>
             </nav>
         </div>
-        <div class="right">
+        <div class="right-header">
             <nav>
-                <a href="/contact"><h1>To Get Me</h1></a>
+                <a href="/contact/"><b>Contact</b></a>
             </nav>
         </div>
     </header>
-  
+
+
     <main>
-        <section id="Middle">
-          <a href="mailto:anidsiam@hotmail.com"><h1>anidsiam@hotmail.com</h1></a> <br>
-          <a href="https://www.t.me/anidsiam" target="_blank" rel="noopener noreferrer"><h1>Telegram</h1></a>
+        <section id="contact-form">
+            <h3>Please Write your Identity in a well mannered to get your desirable reply</h3>
+            <form action="https://formspree.io/myfromid" method="" POST">
+                <level for="name">Name</level>
+                <input type="text" id="name" name="Your Name" required>
+                <br>
+
+                <level for="email">Email</level>
+                <input type="email" id="email" name="Your Email" required>
+                <br>
+
+                <level for="message">Your message</level>
+                <textarea id="message" name="message" rows="10" required></textarea>
+                <br>
+
+                <button type="submit">Send Message</button>
+            </form>
         </section>
     </main>
-  
+
+
     <footer>
         <div class="left-footer">
-            <a href="https://www.github.com/anidsiam" target="_blank"><b>Github</a>
+            <a href="https://www.github.com/anidsiam" target=" _blank"><b>Github</b></a>
         </div>
         <div class="middle-footer">
-            <p>&copy; 2025 - Onidul Islam Siyam</p> 
+            <a href="https://www.x.com/anidsiam" target="_blank"><b>Twitter</b></a>
         </div>
         <div class="right-footer">
-            <a href="https://www.x.com/anidsiam" target="_blank">X (Formerly Twitter)</a>
+            <a href="https://anidsiam.carrd.co" target="_blank"><b>Get Me</b></a>
         </div>
     </footer>
+    <script src="script.js"></script>
 </body>
+
 </html>
