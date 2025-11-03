@@ -1,11 +1,10 @@
 header {
     display: flex;
     min-height: 50px;
-    background-color: rgb(218, 216, 216);
     align-items: center;
     justify-content: space-around;
     margin: 5px 300px;
-    border: 1px solid gray;
+    border-bottom: 1px solid gray;
     font-family: 'Courier New', Courier, monospace;
 }
 
