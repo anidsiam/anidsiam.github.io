@@ -6,7 +6,6 @@ header {
     justify-content: space-around;
     margin: 5px 300px;
     border: 1px solid gray;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 .left-header a h3,
@@ -31,7 +30,6 @@ main {
     text-align: center;
     margin: 100px 300px;
     font-weight: bold;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 main h3 {
@@ -49,7 +47,6 @@ footer {
     align-items: center;
     margin: 0px 300px;
     border: 1px solid gray;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 
@@ -58,7 +55,6 @@ form {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    font-family: Monaco, Consolas, monospace;
 }
 
 label {
