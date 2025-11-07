@@ -55,7 +55,7 @@ input,
 textarea {
     padding: 5px;
     margin-bottom: 12px;
-    border: 1px solid black;
+    border: 1px solid gray;
     font-size: 15px;
     text-align: center;
     align-items: center;
