@@ -4,7 +4,7 @@ header {
     background-color: rgb(218, 216, 216);
     align-items: center;
     justify-content: space-around;
-    margin: 5px 100px;
+    margin: 5px 80px;
     border: 1px solid gray;
 }
 
@@ -28,7 +28,7 @@ a h3:hover {
 
 main {
     text-align: center;
-    margin: 0px 310px;
+    margin: 0px 80px;
 }
 
 footer {
@@ -38,5 +38,5 @@ footer {
     justify-content: space-around;
     align-items: center;
     border: 1px solid gray;
-    margin: 0px 300px;
+    margin: 0px 80px;
 }
