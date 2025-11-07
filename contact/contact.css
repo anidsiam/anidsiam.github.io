@@ -44,11 +44,14 @@ footer {
     justify-content: space-around;
     align-items: center;
     border: 1px solid gray;
+    margin: 5px 0px;
 }
 
 
 form {
     max-width: 500px;
+    text-align: center;
+    align-item: center;
     display: flex;
     flex-direction: column;
 }
@@ -69,9 +72,10 @@ textarea {
 button {
     padding: 10px;
     margin-bottom: 15px
-    background-color: #007acc;
+    background-color: blue;
     color: white;
     border: none;
+    margin: 5px 0px;
     font-weight: bold;
     cursor: pointer;
 }
