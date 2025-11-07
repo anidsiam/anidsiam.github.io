@@ -42,8 +42,7 @@ main h3 {
 form {
     text-align: center;
     align-items: center;
-    display: flex;
-    flex-direction: raw;
+    flex-direction: colum;
 }
 
 label {
