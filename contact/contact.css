@@ -40,6 +40,7 @@ main h3 {
 }
 
 form {
+    max-width: 600px
     text-align: center;
     align-items: center;
     flex-direction: colum;
@@ -50,6 +51,7 @@ label {
     text-align: center;
     align-item: center;
     font-weight: bold;
+    margin-bottom: 12px;
 }
 
 input,
