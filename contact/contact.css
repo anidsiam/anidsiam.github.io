@@ -48,8 +48,7 @@ footer {
 
 
 form {
-    max-width: 600px;
-    margin: 0 auto;
+    max-width: 500px;
     display: flex;
     flex-direction: column;
 }
@@ -69,6 +68,7 @@ textarea {
 
 button {
     padding: 10px;
+    margin-bottom: 15px
     background-color: #007acc;
     color: white;
     border: none;
