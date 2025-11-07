@@ -41,17 +41,14 @@ main h3 {
 
 form {
     max-width: 600px
-    text-align: center;
-    align-items: center;
+    margin: 0 auto;
+    display: flex;
     flex-direction: colum;
 }
 
 label {
     margin-bottom: 6px;
-    text-align: center;
-    align-item: center;
     font-weight: bold;
-    margin-bottom: 12px;
 }
 
 input,
