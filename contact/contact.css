@@ -66,6 +66,7 @@ button {
     background-color: black;
     color: white;
     border: none;
+    margin-bottom: 8px;
     font-weight: bold;
     cursor: pointer;
 }
