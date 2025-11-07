@@ -52,7 +52,7 @@ footer {
 form {
     max-width: 500px;
     text-align: center;
-    align-item: center;
+    align-items: center;
     display: flex;
     flex-direction: column;
 }
@@ -72,8 +72,7 @@ textarea {
 
 button {
     padding: 10px;
-    margin-bottom: 15px
-    background-color: blue;
+    background-color: black;
     color: white;
     border: none;
     margin: 5px 0px;
@@ -82,5 +81,5 @@ button {
 }
 
 button:hover {
-    background-color: Sky-blue;
+    background-color: rgb(218, 216, 216);
 }
