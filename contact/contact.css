@@ -55,6 +55,7 @@ label {
 input,
 textarea {
     padding: 5px;
+    margin-bottom: 12px;
     border: 1px solid black;
     font-size: 15px;
     text-align: center;
