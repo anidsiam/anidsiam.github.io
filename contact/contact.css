@@ -21,7 +21,8 @@ a {
 }
 
 a:hover,
-a h3:hover {
+a h3:hover
+button: hover{
     color: rgb(192, 4, 192);
 }
 
@@ -38,36 +39,25 @@ main h3 {
     padding: 5px
 }
 
-footer {
-    display: flex;
-    min-height: 50px;
-    background-color: rgb(218, 216, 216);
-    justify-content: space-around;
-    align-items: center;
-    border: 1px solid gray;
-    margin: 5px 0px;
-}
-
-
 form {
-    max-width: 500px;
     text-align: center;
     align-items: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: raw;
 }
 
 label {
     margin-bottom: 6px;
+    text-align: center;
+    align-item: center;
     font-weight: bold;
 }
 
 input,
 textarea {
     padding: 5px;
-    margin-bottom: 15px;
     border: 1px solid black;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
     align-items: center;
 }
@@ -77,11 +67,16 @@ button {
     background-color: black;
     color: white;
     border: none;
-    margin: 5px 0px;
     font-weight: bold;
     cursor: pointer;
 }
 
-button:hover {
-    background-color: rgb(192, 4, 192);
+footer {
+    display: flex;
+    min-height: 50px;
+    background-color: rgb(218, 216, 216);
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid gray;
+    margin: 5px 0px;
 }
