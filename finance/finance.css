@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    min-height: 50px;
+    background-color: rgb(218, 216, 216);
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.left-header a h3,
+.middle-header a,
+.right-header a,
+.left-footer a,
+.middle-footer a,
+.right-footer a {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover,
+a h3:hover {
+    color: rgb(192, 4, 192);
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    min-height: 50px;
+    background-color: rgb(218, 216, 216);
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+}
