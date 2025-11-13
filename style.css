@@ -3,9 +3,11 @@ header {
     min-height: 50px;
     background-color: rgb(218, 216, 216);
     align-items: center;
+    margin: 3px 0px;
     justify-content: space-around;
     border: 1px solid black;
 }
+
 
 .left-header a h3,
 .finance-header a,
@@ -36,5 +38,6 @@ footer {
     background-color: rgb(218, 216, 216);
     justify-content: space-around;
     align-items: center;
+    margin: 3px 0px;
     border: 1px solid black;
 }
