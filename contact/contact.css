@@ -1,12 +1,4 @@
-header {
-    display: flex;
-    min-height: 50px;
-    background-color: rgb(218, 216, 216);
-    align-items: center;
-    margin: 2px 0px
-    justify-content: space-around;
-    border: 1px solid gray;
-}
+
 
 .left-header a h3,
 .finance-header a,
