@@ -4,10 +4,12 @@ header {
     background-color: rgb(218, 216, 216);
     align-items: center;
     justify-content: space-around;
+    margin: 3px, 0px;
     border: 1px solid black;
 }
 
 .left-header a h3,
+.finance-header a,
 .middle-header a,
 .right-header a,
 .left-footer a,
@@ -35,5 +37,6 @@ footer {
     background-color: rgb(218, 216, 216);
     justify-content: space-around;
     align-items: center;
+    margin: 3px 0px;
     border: 1px solid black;
 }
