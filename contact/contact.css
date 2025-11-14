@@ -6,7 +6,6 @@ header {
     margin: 3px 0px;
     justify-content: space-around;
     border: 1px solid black;
-    font-family: 'ubuntu', sans-serif;
 }
 
 
@@ -35,7 +34,6 @@ main {
     align-items: center;
     font-weight: bold;
     margin: 5px 0px;
-    font-family: 'ubuntu', sans-serif;
 }
 
 main h3 {
@@ -85,5 +83,4 @@ footer {
     align-items: center;
     border: 1px solid gray;
     margin: 5px 0px;
-    font-family: 'ubuntu', sans-serif;
 }
