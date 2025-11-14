@@ -6,6 +6,7 @@ header {
     margin: 3px 0px;
     justify-content: space-around;
     border: 1px solid black;
+    font-family: 'ubuntu', sans-serif;
 }
 
 
@@ -30,6 +31,7 @@ a h3:hover {
 
 main {
     text-align: center;
+    font-family: 'ubuntu', sans-serif;
 }
 
 footer {
@@ -40,4 +42,5 @@ footer {
     align-items: center;
     margin: 3px 0px;
     border: 1px solid black;
+    font-family: 'ubuntu', sans-serif;
 }
