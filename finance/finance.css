@@ -44,6 +44,19 @@ main {
   }
 }
     
+@media (max-width: 600px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+ .image-wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
 .goldanalysis {
   max-width: 1000px;
   margin: 10px auto;
