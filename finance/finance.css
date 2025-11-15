@@ -30,9 +30,11 @@ a h3:hover {
 
 main {
     text-align: center;
+    align-items: center;
+    margin: 30px 10px;
 }
 
-.image-wrapper {
+.goldanalyisi {
   align-items: center;
 }
 
