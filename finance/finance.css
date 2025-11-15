@@ -30,37 +30,31 @@ a h3:hover {
 
 main {
     text-align: center;
-    margin: 20px 300px
 }
 
-.goldanalysis {
-    .content {
-  margin: 20px 300px;
-}
      
 @media (max-width: 768px) {
   .goldanalysis {
     margin: 5px 5px;
   }
-}
     
-@media (max-width: 600px) {
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+
+
+.image-wrapper {
+  align-item: center;
 }
 
- .image-wrapper {
-  width: 100%;
-  max-width: 800px;
-  margin: 20px auto;
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .goldanalysis {
-  max-width: 1000px;
-  margin: 10px auto;
-  padding: 0 20px;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 10px;
 }
 
 footer {
