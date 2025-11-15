@@ -29,7 +29,8 @@ a h3:hover {
 }
 
 main {
-    text-align: center;   
+    text-align: center;
+    margin: 10px 50px
 }
 
 img {
