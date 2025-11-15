@@ -41,3 +41,13 @@ img {
   height: auto;
   display: block;
 }
+
+footer {
+    display: flex;
+    min-height: 50px;
+    background-color: rgb(218, 216, 216);
+    align-items: center;
+    justify-content: space-around;
+    margin: 3px, 0px;
+    border: 1px solid black;
+}
