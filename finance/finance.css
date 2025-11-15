@@ -30,11 +30,12 @@ a h3:hover {
 
 main {
     text-align: center;
+    margin: 20px 300px
 }
 
 .goldanalysis {
     .content {
-  margin: 10px 300px;
+  margin: 20px 300px;
 }
      
 @media (max-width: 768px) {
