@@ -32,37 +32,12 @@ main {
     text-align: center;
 }
 
-     
-@media (max-width: 768px) {
-  .goldanalysis {
-    margin: 5px 5px;
-  }
-    
-
-
 .image-wrapper {
-  align-item: center;
+  align-items: center;
 }
 
 img {
   max-width: 100%;
   height: auto;
   display: block;
-}
-
-.goldanalysis {
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 10px;
-}
-
-footer {
-    display: flex;
-    min-height: 50px;
-    background-color: rgb(218, 216, 216);
-    justify-content: space-around;
-    align-items: center;
-    margin: 3px 0px;
-    border: 1px solid black;
 }
