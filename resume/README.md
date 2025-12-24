@@ -1,5 +1,5 @@
-## Analyst | Account Manager | Technical Writer
-#### Financial Market Analytics, Data Leveling, Computer Vision, AI and ML
+## Analyst | Data Trainer | Technical Writer | Seller
+#### Financial Market Analytics, Data Labeling, Computer Vision, AI and ML
 ### Area of Expertise:
 - Data Analysis of Financial markets at the scale of Micro and Macro economics.
 - Strategy management, Portfolio management, Financial and Risk management.
@@ -10,12 +10,15 @@
   Graph and Charts, Statistical data and reports, etc.
 - Sentimental Analysis: CFTC's COT reports, Smart money, Liquidity pool and others 
   related data to predict the market movements.
-- Data leveling and Computer Vision for AI and Machine Learning Model.
+- Data labeling and Computer Vision for AI and Machine Learning Model.
+- Flight Searching, Presenting Itinerary, Objection Handling, Travel Care service,
+  Hotel and Flight Booking process
 
 ## Skills:
 - Meta Marketing: Analysis markets and customer’s data to create campaigns, 
   ensure good TV Scores, Target and retarget customers to increased sales.
-- Technical/Informational Content Writing and Editing for for blog, newsletter, professional Communications, etc.                                                   
+- Technical/Informational Content Writing and Editing for for blog, newsletter, professional Communications, etc.          
+
   Newsletter: https://anidsiam.substack.com                                                                                
   Medium: https://anidsiam.medium.com
   
@@ -44,12 +47,12 @@
 - Course Type         : Online Course
 
 ## Training Summary:
-- Training Title        : Information and Communication Technology
-- Topic                 : Communication, Content and Office Applications 
-- Institute             : IT Computer Center
-- Location              : Sarda Ghosh Road, Mymensingh 2200 
-- Duration              : 06 Month
-- Training Types        : On Site
+- Training Title        : Data Trainer
+- Topic                 : Computer vision for AI and ML 
+- Institute             : Quantigo AI
+- Location              : Sector-3 Uttara, House #4 Road-3, Dhaka - 1230
+- Duration              : One Month
+- Training Types        : Online
 
 ## Language Proficiency:
 - English : Level B1
