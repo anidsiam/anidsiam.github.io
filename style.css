@@ -43,9 +43,9 @@ main {
     padding: 15px 32px;
     text-align: center;
     font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
+    margin: 50px 7px;
     border-radius: 8px;
+}
 
 footer {
     display: flex;
