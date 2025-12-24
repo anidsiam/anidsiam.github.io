@@ -35,7 +35,7 @@ main {
     text-align: center;
 }
 
-projectonebutton {
+.projectonebutton {
     background-color: rgb(218, 216, 216);
     border: 1px solid black;
     color: black;
