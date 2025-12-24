@@ -35,7 +35,7 @@ main {
     text-align: center;
 }
 
-.projectonebutton {
+projectonebutton {
     background-color: rgb(218, 216, 216);
     border: 1px solid black;
     color: black;
@@ -45,4 +45,14 @@ main {
     font-size: 16px;
     margin: 50px 7px;
     border-radius: 8px;
+}
+
+footer {
+    display: flex;
+    min-height: 50px;
+    background-color: rgb(218, 216, 216);
+    justify-content: space-around;
+    align-items: center;
+    margin: 3px 0px;
+    border: 1px solid black;
 }
