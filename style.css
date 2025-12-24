@@ -24,6 +24,7 @@ a {
     text-decoration: none;
 }
 
+a button:hover
 a:hover,
 a h3:hover {
     color: rgb(192, 4, 192);
