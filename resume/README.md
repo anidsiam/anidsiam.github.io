@@ -31,7 +31,7 @@
 - Training Title        : Data Trainer
 - Topic                 : Computer vision for AI and ML 
 - Institute             : Quantigo AI
-- Location              : Sector-3 Uttara, House #4 Road-3, Dhaka - 1230
+- Location              : Sector-3 Uttara, Dhaka - 1230
 - Duration              : One Month
 - Training Types        : Online
 
