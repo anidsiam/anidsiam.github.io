@@ -27,6 +27,14 @@
 - H.S.C in Business Studies at Govt. Ananda Mohan College (_2020_)
 - S.S.C in Science at Border Guard Public School & College (_2017_)
 
+## Training Summary:
+- Training Title        : Data Trainer
+- Topic                 : Computer vision for AI and ML 
+- Institute             : Quantigo AI
+- Location              : Sector-3 Uttara, House #4 Road-3, Dhaka - 1230
+- Duration              : One Month
+- Training Types        : Online
+
 ## Course Summary:
 ### Course 01:
 - Course Title        : Introduction to Programming with Python
@@ -45,14 +53,6 @@
 - Location            : Mountain View, CA 94040, United States
 - Duration            : 12 Month
 - Course Type         : Online Course
-
-## Training Summary:
-- Training Title        : Data Trainer
-- Topic                 : Computer vision for AI and ML 
-- Institute             : Quantigo AI
-- Location              : Sector-3 Uttara, House #4 Road-3, Dhaka - 1230
-- Duration              : One Month
-- Training Types        : Online
 
 ## Language Proficiency:
 - English : Level B1
