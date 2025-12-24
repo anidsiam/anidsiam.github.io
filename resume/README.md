@@ -18,6 +18,7 @@
 - Meta Marketing: Analysis markets and customer’s data to create campaigns, 
   ensure good TV Scores, Target and retarget customers to increased sales.
 - Technical/Informational Content Writing and Editing for for blog, newsletter, professional Communications, etc.
+  
   Newsletter: https://anidsiam.substack.com                                                                                
   Medium: https://anidsiam.medium.com
   
