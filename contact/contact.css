@@ -67,11 +67,11 @@ textarea {
 }
 
 button {
-    padding: 5px;
+    padding: 10px;
     background-color: black;
     color: white;
     border: none;
-    margin-bottom: 8px;
+    margin-bottom: 15px;
     font-weight: bold;
     cursor: pointer;
 }
