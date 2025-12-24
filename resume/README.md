@@ -1,4 +1,4 @@
-## Analyst | Data Trainer | Technical Writer | Seller
+## Analyst | Data Trainer | Writer | Seller
 #### Financial Market Analytics, Data Labeling, Computer Vision, AI and ML
 ### Area of Expertise:
 - Data Analysis of Financial markets at the scale of Micro and Macro economics.
