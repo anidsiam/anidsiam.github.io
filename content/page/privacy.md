@@ -1,7 +1,7 @@
 +++
 date = '2025-12-23T10:32:53+06:00'
 draft = false
-title = 'Privacy policy'
+title = 'Privacy'
 url = '/privacy/'
 ShowToc = true
 +++

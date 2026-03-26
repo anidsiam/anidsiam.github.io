@@ -71,8 +71,12 @@ params:
     siteType: Blog
     logo: /images/insideseeklogo.png
 
+  label:
+    icon: /images/insideseek.jpg
+    iconHeight: 24
+
   defaultTheme: auto
-  disableThemeToggle: true
+  disableThemeToggle: false
 
   author: WILLIAM J.STOCKSON
   favicon: /favicon.ico
@@ -144,7 +148,7 @@ related:
 menu:
   main:
     - identifier: posts
-      name: Posts
+      name: Blogs
       url: /posts/
       weight: 1
     - identifier: categories
@@ -159,14 +163,10 @@ menu:
       name: About
       url: /about/
       weight: 4
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 5
     - identifier: privacy
-      name: Privacy policy
+      name: Privacy
       url: /privacy/
-      weight: 6
+      weight: 5
 
 # Privacy (GDPR compliance)
 privacy:

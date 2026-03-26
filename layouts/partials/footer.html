@@ -1,3 +1,23 @@
 <footer class="footer">
     <span>&copy; {{ now.Year }} {{ site.Title }}. All rights reserved.</span>
 </footer>
+
+{{- if (not site.Params.disableThemeToggle) }}
+<script>
+    (() => {
+        const themeToggle = document.getElementById("theme-toggle");
+        if (!themeToggle) return;
+
+        themeToggle.addEventListener("click", () => {
+            const html = document.querySelector("html");
+            if (html.dataset.theme === "dark") {
+                html.dataset.theme = "light";
+                localStorage.setItem("pref-theme", "light");
+            } else {
+                html.dataset.theme = "dark";
+                localStorage.setItem("pref-theme", "dark");
+            }
+        });
+    })();
+</script>
+{{- end }}

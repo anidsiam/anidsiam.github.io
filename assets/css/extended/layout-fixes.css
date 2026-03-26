@@ -1,0 +1,4 @@
+:root {
+    /* Match header width with main content width for consistent alignment. */
+    --nav-width: var(--main-width);
+}
