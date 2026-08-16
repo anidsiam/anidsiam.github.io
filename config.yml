@@ -1,6 +1,6 @@
-baseURL: "https://insideseek.netlify.app/"
+baseURL: "https://anidsiam.github.io/"
 languageCode: en-us
-title: Inside Seek
+title: @anidsiam
 theme: PaperMod
 
 # Enable features
@@ -89,8 +89,8 @@ params:
     - /images/site-cover.png
 
   homeInfoParams:
-    title: "Hello, Inside Seekers!"
-    content: "Explore the world of Technology, Development, AI, Robotics, Software and Coding. I will try to give you Technology Trends, Software and Coding, Robotics, AI, Quantum Computing, BRAIN-COMPUTER INTERFACE, NEUROMORPHIC COMPUTING, Get in touch to stay updated and inspired!"
+    title: "Hello, this is Onidul Islam Siyam!"
+    content: "I like to train data for Computer Vision, AI and ML. I will try to write about the world of Technology, Dev., AI, Robotics, Software, Quantum Computing, BRAIN-COMPUTER INTERFACE, NEUROMORPHIC COMPUTING, Get in touch to stay updated and inspired! Let's connect on LinkedIn, GitHub, and Twitter."
 
   # SEO Settings
   ShowReadingTime: true
@@ -120,9 +120,19 @@ params:
   # Social
   socialIcons:
     - name: GitHub
-      url: "https://github.com/insideseek/"
+      url: "https://github.com/anidsiam"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/anidsiam/"
+    - name: Twitter
+      url: "https://twitter.com/anidsiam"
+    - name: Facebook
+      url: "https://www.facebook.com/anidsiam"
+    - name: Instagram
+      url: "https://www.instagram.com/anidsiam/"
     - name: Pinterest
-      url: "https://pinterest.com/insideseek/"
+      url: "https://pinterest.com/anidsiam/"
+    - name: YouTube
+      url: "https://www.youtube.com/@anidsiam"
     - name: RSS
       url: "/index.xml"
 
