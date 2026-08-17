@@ -157,7 +157,7 @@ menu:
   main:
     - identifier: posts
       name: Blogs
-      url: /posts/
+      url: /blogs/
       weight: 1
     - identifier: categories
       name: Categories
