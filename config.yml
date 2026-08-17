@@ -82,7 +82,7 @@ params:
   favicon: /favicon.ico
 
   mainSections:
-    - posts
+    - blogs
 
   # Images for social sharing
   images:
