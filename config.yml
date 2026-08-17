@@ -69,16 +69,16 @@ params:
   schema:
     publisherType: Person
     siteType: Blog
-    logo: /images/insideseeklogo.png
+    logo: /images/anidsiam.png
 
   label:
-    icon: /images/insideseek.jpg
+    icon: /images/anidsiam.png
     iconHeight: 24
 
   defaultTheme: auto
   disableThemeToggle: false
 
-  author: @anidsiam
+  author: anidsiam
   favicon: /favicon.ico
 
   mainSections:
