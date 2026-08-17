@@ -17,11 +17,15 @@ I believe in:
 - **Continuous Learning** - Sharing what I learn along the way
 - **Community** - Building connections with fellow tech enthusiasts
 
+### Currently Growing:
+
+- AI and ML Network (AI data service Agency): [https://aiandml.net] (https://aiandml.net)
+
 ### Get in Touch
 
 Want to collaborate, have questions, or just say hi?
 - Email: [anidsiam@hotmail.com](mailto:anidsiam@hotmail.com)
-- GitHub: [github.com/anidsiam](https://github.com/anidsiam)
-- X/Twitter: [x.com/anidsiam](https://x.com/anidsiam)
+- GitHub: [https://github.com/anidsiam](https://github.com/anidsiam)
+- X/Twitter: [https://x.com/anidsiam](https://x.com/anidsiam)
 
 Thanks for visiting here!

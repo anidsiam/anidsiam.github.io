@@ -16,7 +16,7 @@ By using this website, you agree to the collection and use of information in acc
 
 ---
 
-## Information We Collect
+## Information Collections
 
 ### Automatically Collected Information
 
@@ -31,16 +31,17 @@ When you visit our website, it'snautomatically collect:
 
 ### Information You Provide
 
-If you contact us or subscribe to newsletter, I collect:
+If you contact or subscribe to newsletter, It's collect:
 - Your name
 - Email address
 - Any information you choose to provide in messages
 
 ---
 
-## How We Use Your Information
+## How I Use Your Information
 
 I use collected information for:
+
 - **Analytics** - Understanding how visitors use our site
 - **Improvements** - Enhancing user experience and content
 - **Communication** - Responding to your inquiries
@@ -142,7 +143,7 @@ I encourage you to review this Privacy Policy periodically.
 
 ## Contact
 
-If you have questions about this Privacy Policy, please contact us:
+If you have questions about this Privacy Policy, please contact:
 
 - **Email:** anidsiam@hotmail.com
 

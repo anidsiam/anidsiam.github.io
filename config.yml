@@ -132,10 +132,10 @@ params:
     - name: RSS
       url: "/index.xml"
 
-  # Analytics (add when ready)
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "YOUR_VERIFICATION_TAG"
+  # Analytics
+  analytics:
+    google:
+      SiteVerificationTag: "MHw6m3qtJhntFQGX7kxNGI_CT-dvWB9Th7jV"
 
 # Related content configuration
 related:
