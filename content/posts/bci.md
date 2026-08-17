@@ -7,7 +7,7 @@ slug = "brain-computer-interface-complete-guide-2026"
 tags = ["brain computer interface", "BCI technology", "Neuralink", "neurotechnology", "brain chip", "neural interface", "invasive BCI", "non-invasive BCI", "EEG headset", "brain implant", "paralysis treatment", "ALS communication", "medical technology", "future technology"]
 categories = ["Technology", "Neuroscience", "Medical Technology", "Future Tech"]
 keywords = ["brain computer interface", "BCI technology 2026", "Neuralink brain chip", "how BCI works", "invasive vs non-invasive BCI", "brain implant surgery", "Synchron BCI", "Blackrock Neurotech", "neural interface device", "EEG headset consumer", "BCI applications", "paralysis treatment BCI", "ALS communication device", "restore vision blind", "brain to computer", "mind control technology"]
-author = "WILLIAM J. STOCKTON"
+author = "@anidsiam"
 series = ["Future Technology"]
 aliases = ["/bci-technology-guide", "/neuralink-brain-chip-explained"]
 

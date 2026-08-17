@@ -7,23 +7,9 @@ ShowToc = false
 +++
 
 
-## Hello, I'm William J. Stockson!
+## Hello, this is Onidul Islam Siyam!
 
-Welcome to **Inside Seek**, your go-to resource for software development, technology trends, and coding insights.
-
-### My Story
-
-I'm a passionate developer and tech enthusiast who loves sharing knowledge and helping others grow in their tech journey. I started this blog to document my learning experiences and provide valuable insights to fellow developers.
-
-### What You'll Find Here
-
-On Inside Seek, I cover:
-- **Software Development** - Best practices, tutorials, and tips
-- **Technology Trends** - Latest developments in the tech world
-- **Coding Insights** - Deep dives into programming concepts
-- **Career Advice** - Guidance for developers at all levels
-
-### My Approach
+Welcome here, I'm a passionate developer and tech enthusiast who loves sharing knowledge and helping others grow in their tech journey. I started this blog to document my learning experiences and provide valuable insights to fellows.
 
 I believe in:
 - **Practical Knowledge** - Real-world examples and hands-on tutorials
@@ -34,14 +20,8 @@ I believe in:
 ### Get in Touch
 
 Want to collaborate, have questions, or just say hi?
-- Email: [theinsideseek@gmail.com](mailto:theinsideseek@gmail.com)
-- GitHub: [github.com/insideseek](https://github.com/insideseek)
+- Email: [anidsiam@hotmail.com](mailto:anidsiam@hotmail.com)
+- GitHub: [github.com/anidsiam](https://github.com/anidsiam)
+- X/Twitter: [x.com/anidsiam](https://x.com/anidsiam)
 
-### Support This Blog
-
-If you find my content helpful:
-- Share posts with your network
-- Leave comments and feedback
-
-
-Thanks for visiting Inside Seek!
+Thanks for visiting here!

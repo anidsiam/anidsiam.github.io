@@ -7,7 +7,7 @@ slug = "website-cost-10-dollars-year-free-hosting"
 tags = ["free static site hosting", "pro free host", "cheap domain hosting", "Hugo static site generator", "Netlify free hosting", "GitHub Pages", "blog monetization", "static website", "SSG tutorial", "web development", "PaperMod theme", "custom domain", "free website hosting"]
 categories = ["Web Development", "Static Site Generators", "Web Hosting", "Blogging"]
 keywords = ["free static site hosting", "free static site web hosting", "free web hosting guide", "Make Money with low cost website", "how to get free hosting", "cheap domain registration", "Hugo static site generator", "Netlify hosting", "GitHub Pages free", "static website hosting", "blog monetization 2026", "cheapest domain", "cheapest hosting", "SSG deployment", "markdown blog", "PaperMod theme", "Cloudflare Pages", "free website custom domain", "static site tutorial"]
-author = "WILLIAM J. STOCKSON"
+author = "@anidsiam"
 series = ["Web Development Tutorials"]
 aliases = ["/cheap-website-hosting", "/free-static-hosting-guide"]
 

@@ -10,7 +10,7 @@ ShowToc = true
 
 ## Introduction
 
-Your privacy is important to us. This Privacy Policy explains how Inside Seek collects, uses, and protects your information when you visit our website.
+Your privacy is important to me. This Privacy Policy explains how collects, uses, and protects your information when you visit this website.
 
 By using this website, you agree to the collection and use of information in accordance with this policy.
 
@@ -20,7 +20,7 @@ By using this website, you agree to the collection and use of information in acc
 
 ### Automatically Collected Information
 
-When you visit our website, we automatically collect:
+When you visit our website, it'snautomatically collect:
 - Browser type and version
 - Operating system
 - IP address (anonymized)
@@ -31,7 +31,7 @@ When you visit our website, we automatically collect:
 
 ### Information You Provide
 
-If you contact us or subscribe to our newsletter, we collect:
+If you contact us or subscribe to newsletter, I collect:
 - Your name
 - Email address
 - Any information you choose to provide in messages
@@ -40,7 +40,7 @@ If you contact us or subscribe to our newsletter, we collect:
 
 ## How We Use Your Information
 
-We use collected information for:
+I use collected information for:
 - **Analytics** - Understanding how visitors use our site
 - **Improvements** - Enhancing user experience and content
 - **Communication** - Responding to your inquiries
@@ -77,16 +77,10 @@ We use Google AdSense to display advertisements. Google may use cookies to serve
 
 This website contains affiliate links. If you click on an affiliate link and make a purchase, we may earn a commission at **no additional cost to you**.
 
-We only recommend products and services that we:
+I only recommend products and services that I:
 - Have personally used and tested, or
 - Have thoroughly researched, or
 - Believe will provide value to our readers
-
-### Affiliate Programs
-
-We participate in:
-- Amazon Associates
-- Other affiliate networks (as disclosed in individual posts)
 
 ---
 
@@ -94,9 +88,9 @@ We participate in:
 
 If you subscribe to our newsletter:
 - Your email is stored securely by our email service provider
-- We will never sell or share your email with third parties
+- I will never sell or share your email with third parties
 - You can unsubscribe at any time using the link in every email
-- We send updates only when we publish new valuable content
+- I send updates only when we publish new valuable content
 
 ---
 
@@ -122,13 +116,13 @@ Every email includes an unsubscribe link at the bottom.
 
 ## Data Security
 
-We implement appropriate security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure.
+I implement appropriate security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure.
 
 ---
 
 ## Children's Privacy
 
-Our website is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
+This website is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
 
 ---
 
@@ -140,17 +134,17 @@ If you are visiting from outside your country, please be aware that your informa
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date.
+I may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last updated" date.
 
-We encourage you to review this Privacy Policy periodically.
+I encourage you to review this Privacy Policy periodically.
 
 ---
 
-## Contact Us
+## Contact
 
 If you have questions about this Privacy Policy, please contact us:
 
-- **Email:** theinsideseek@gmail.com
+- **Email:** anidsiam@hotmail.com
 
 ---
 
@@ -164,4 +158,4 @@ This privacy policy complies with:
 
 ---
 
-*Your privacy matters to us. Thank you for trusting Inside Seek.*
+*Your privacy matters to Me. Thank you for trusting anidsiam!*

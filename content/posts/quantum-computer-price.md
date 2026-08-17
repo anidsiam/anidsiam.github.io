@@ -7,7 +7,7 @@ slug = "quantum-computer-price-cost-guide-2026"
 tags = ["quantum computer price", "quantum computer cost", "how much quantum computer", "quantum computing price", "buy quantum computer", "quantum cloud cost", "superconducting qubits", "quantum chip price", "IBM quantum", "Google quantum", "educational quantum computer", "quantum as a service"]
 categories = ["Quantum Computing", "Technology", "Pricing Guides", "Computing Hardware"]
 keywords = ["quantum computer price 2026", "how much does quantum computer cost", "quantum computer cost to build", "buy quantum computer price", "quantum computing as a service cost", "superconducting quantum computer price", "quantum chip cost per qubit", "IBM quantum computer price", "D-Wave quantum price", "SpinQ quantum computer", "educational quantum computer affordable", "quantum cloud computing pricing", "quantum processor unit cost", "quantum computer maintenance cost"]
-author = "WILLIAM J. STOCKSON"
+author = "@anidsiam"
 series = ["Quantum Computing Guides"]
 aliases = ["/quantum-computing-cost", "/how-much-quantum-computer"]
 

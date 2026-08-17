@@ -43,8 +43,8 @@ minify:
 
 params:
   env: production
-  title: Inside Seek
-  description: "Explore Technology Trends, Software and Coding, Robotics, AI, Quantum Computing, BRAIN-COMPUTER INTERFACE, NEUROMORPHIC COMPUTING, etc."
+  title: anidsiam
+  description: "Explore Technology Trends, Software and Coding, Robotics, AI and ML, Quantum Computing, Computer Vision, Brain-Computer Interface, Neuromorphic Computing, etc."
   keywords:
     - software
     - coding
@@ -90,7 +90,7 @@ params:
 
   homeInfoParams:
     title: "Hello, this is Onidul Islam Siyam!"
-    content: "I like to train data for Computer Vision, AI and ML. I will try to write about the world of Technology, Dev., AI, Robotics, Software, Quantum Computing, BRAIN-COMPUTER INTERFACE, NEUROMORPHIC COMPUTING, Get in touch to stay updated and inspired! Let's connect on LinkedIn, GitHub, and Twitter."
+    content: "I like to train data for Computer Vision, AI and ML. The blog section is about the world of Technology, Dev, AI and ML, Robotics, Code & Software, Quantum Computing, Computer Vision, Brain-Computer Interface, Neuromorphic Computing and more. Get in touch to stay updated and inspired!"
 
   # SEO Settings
   ShowReadingTime: true
@@ -129,10 +129,6 @@ params:
       url: "https://www.facebook.com/anidsiam"
     - name: Instagram
       url: "https://www.instagram.com/anidsiam/"
-    - name: Pinterest
-      url: "https://pinterest.com/anidsiam/"
-    - name: YouTube
-      url: "https://www.youtube.com/@anidsiam"
     - name: RSS
       url: "/index.xml"
 

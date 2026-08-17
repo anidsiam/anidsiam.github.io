@@ -8,7 +8,7 @@ slug = "programming-for-beginners-2026"
 tags = ["programming", "beginner programming", "learn to code", "HTML", "CSS", "JavaScript", "Python", "web development", "coding tutorial", "programming 2026", "AI tools", "GitHub", "portfolio"]
 categories = ["Programming", "Start Coding Journey", "Career Advice", "Education"]
 keywords = ["easiest programming language", "programming for beginners", "learn programming 2026", "first programming language", "easiest coding language to learn first", "easiest programming language for beginners", "beginner coding", "how to learn programming", "best language for beginners", "coding tutorial", "web development beginner", "learn to code free", "programming advice", "AI coding tools", "GitHub for beginners", "static site generator", "The only article you need to read about how to learn programming"]
-author = "WILLIAM J. STOCKSON"
+author = "@anidsiam"
 series = ["Programming Tutorials"]
 aliases = ["/learn-programming-beginners", "/first-programming-language"]
 

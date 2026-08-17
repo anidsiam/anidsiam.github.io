@@ -7,7 +7,7 @@ slug = "why-become-indie-hacker-2026"
 tags = ["indie hacker", "solopreneur", "build in public", "solo entrepreneur", "SaaS startup", "financial freedom", "indie hacking", "startup founder", "product launch", "MVP development", "maker movement", "bootstrapping", "side hustle 2026"]
 categories = ["Entrepreneurship", "Indie Hacking", "Startup", "Business"]
 keywords = ["indie hacker", "solopreneur 2026", "build in public", "solo startup founder", "how to become indie hacker", "SaaS without team", "indie hacker guide", "bootstrap startup", "product hunt launch", "MVP tutorial", "maker community", "financial independence", "quit 9 to 5", "one person business"]
-author = "WILLIAM J. STOCKSON"
+author = "@anidsiam"
 series = ["Indie Hacking Tutorials"]
 aliases = ["/become-indie-hacker", "/solo-entrepreneur-guide"]
 
