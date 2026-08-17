@@ -19,7 +19,7 @@ I believe in:
 
 ### Currently Growing:
 
-- AI and ML Network: [https://aiandml.net]
+- AI and ML Network: https://aiandml.net
 
 ### Get in Touch
 
