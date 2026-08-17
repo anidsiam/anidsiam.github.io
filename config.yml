@@ -1,6 +1,6 @@
 baseURL: "https://anidsiam.github.io/"
 languageCode: en-us
-title: anidsiam
+title: '@anidsiam'
 theme: PaperMod
 
 # Enable features
@@ -78,7 +78,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
 
-  author: anidsiam
+  author: '@anidsiam'
   favicon: /favicon.ico
 
   mainSections:
