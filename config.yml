@@ -46,6 +46,32 @@ params:
   title: anidsiam
   description: "Explore Technology Trends, Software and Coding, Robotics, AI and ML, Quantum Computing, Computer Vision, Brain-Computer Interface, Neuromorphic Computing, etc."
   keywords:
+    - onidul islam siyam
+    - md onidul islam siyam
+    - onidul
+    - anidsiam
+    - anid
+    - siam
+    - ai data labeler
+    - data annotator
+    - computer vision
+    - machine learning
+    - ai and ml 
+    - ai and ml network
+    - ai data service
+    - ai data training
+    - ai data annotation
+    - ai data labeling
+    - data annotation
+    - data labeling
+    - bounding box annotation
+    - data labeling team
+    - data annotation agency
+    - partnership with data annotaion agency
+    - keypoint annotation
+    - keypoint tagging
+    - computer vision data labeling agency owner
+    - data annotation agency founder
     - software
     - coding
     - technology
@@ -64,6 +90,7 @@ params:
     - indie hacker
     - indie hacking
     - solo developer
+    - vibe coder
 
   # Schema.org
   schema:
@@ -90,7 +117,7 @@ params:
 
   homeInfoParams:
     title: "Hello, this is Onidul Islam Siyam!"
-    content: "I like to train data for Computer Vision, AI and ML. The blog section is about the world of Technology, Dev, AI and ML, Robotics, Code & Software, Quantum Computing, Computer Vision, Brain-Computer Interface, Neuromorphic Computing and more. Get in touch to stay updated and inspired!"
+    content: "I like to train data for Computer Vision, AI and ML. The blog section is about the world of Technology, Dev, AI and ML, Robotics, Code & Software, Quantum Computing, Computer Vision, Brain-Computer Interface, Neuromorphic Computing and more. Get in touch!"
 
   # SEO Settings
   ShowReadingTime: true
