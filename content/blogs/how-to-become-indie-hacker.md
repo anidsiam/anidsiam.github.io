@@ -200,7 +200,7 @@ Book: "MAKE: Bootstrapper's Handbook" - https://readmake.com/
 
 Built ShipFast (boilerplate that made $300K+). Ships new products constantly. Shares revenue publicly.
 
-Twitter: https://twitter.com/marc_louvion
+Twitter: https://twitter.com/marclou
 
 **Tony Dinh (@tdinh_me):**
 
