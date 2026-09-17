@@ -1,8 +1,8 @@
 +++
-title = "A Different kind of Technical Analysis about Gold; adjusted with Gareth Soloway"
+title = "A Different kind of Technical Analysis about Gold; Adjusted with Gareth Soloway"
 date = 2025-12-15T10:00:00+06:00
 draft = false
-description = "Gold’s weekly chart keeps repeating a nine-candle bull run, then a pullback to the prior swing high. Here is the 1979–2025 analogy Gareth Soloway showed, plus the same pattern in 2009, 2011, and 2020."
+description = "Gold’s weekly chart keeps repeating a nine-candle bull run, then a pullback to the prior swing high. Here is the 1979–2026 analogy Gareth Soloway showed, plus the same pattern in 2009, 2011, and 2020."
 slug = "gold-nine-candle-analysis"
 tags = ["gold", "technical-analysis", "gareth-soloway", "markets", "candlestick chart", "gold weekly chart", "nine candle pattern"]
 categories = ["Finance"]
@@ -44,7 +44,7 @@ ShowShareButtons = true
 # Schema.org
 [params.schema]
   type = "Article"
-  headline = "A Different kind of Technical Analysis about Gold; adjusted with Gareth Soloway"
+  headline = "A Different kind of Technical Analysis about Gold; Adjusted with Gareth Soloway"
   datePublished = "2025-12-15"
   dateModified = "2025-12-15"
   articleSection = "Finance"
@@ -52,16 +52,16 @@ ShowShareButtons = true
 
 # PaperMod cover (feature image lives in content/blogs/img)
 [cover]
-  image = "/img/meandgareth.png"
-  alt = "A Different Kind of Technical Analysis about Gold; adjusted with Gareth Soloway"
-  caption = "A Different Kind of Technical Analysis about Gold; adjusted with Gareth Soloway"
+  image = "/img/2026 repeatation.png"
+  alt = "Gold's Magic Nine Candle Happens Again in 2026"
+  caption = "Gold's Magic Nine Candle Happens Again in 2026"
   relative = false
   hidden = false
 +++
 
 # A Different kind of Technical Analysis about Gold; adjusted with Gareth Soloway
 
-I have been watching a technical analysis video at Kitconews Youtube channel, The analyst was Geareth Soloway invited by Kitconews, Gareth describing his technical analytical philosophy about Gold, silver, copper, BTC, S&P, Amazon, Apple, Palantir etc. in his screen with Candlestick Chart. Few days later he also share the same Gold analysis in his personal Youtube channel. I found when he was showing his analysis about Gold; was describing a very interesting kind of technical analogy in candlestick chart for two different time period. He have been in weekly chart and there was two window in his chart, one is end of 1979 and one is nowadays end of 2025 chart. I just impressed after watching this analysis and **I immediately jump on gold chart to play with this kind of hot analogy and what I found is that you would probably love if you are really involve with Gold ann believe in Gold**.
+I have been watching a technical analysis video at Kitconews Youtube channel, The analyst was Geareth Soloway invited by Kitconews, Gareth describing his technical analytical philosophy about Gold, silver, copper, BTC, S&P, Amazon, Apple, Palantir etc. in his screen with Candlestick Chart. Few days later he also share the same Gold analysis in his personal Youtube channel. I found when he was showing his analysis about Gold; was describing a very interesting kind of technical analogy in candlestick chart for two different time period. He have been in weekly chart and there was two window in his chart, one is end of 1979 and one is nowadays end of 2025 chart. I just impressed after watching this analysis and **I immediately jump on gold chart to play with this kind of hot analogy and what I found is that you would probably love if you are really involve with Gold and believe in Gold**.
 
 {{< figure src="/img/1979and2025.png" alt="1979and2025" caption="Gold weekly chart analogy between 1979 and 2025 on Gareth's Screen" >}}
 
@@ -93,12 +93,12 @@ Again, on 2020’s May, June, July, August look at Gold weekly chart. Exact same
 
 ---
 
-**N.B.** Trading or Invest in any Asset include some risk of your capital, if you are not familiar with manage those risks, You are not ready yet to trade/invest. Remember one thing always “If you want to invest $1 million; You should have your own knowledge Worth of $10 Million”.
+**N.B.** Trading or Invest in any Asset include some risk of your capital, if you are not familiar with manage those risks, You are not ready yet to trade/invest. Remember one thing always “If you want to invest $1, You should have your own knowledge Worth of $1 Million.”
 
 ---
 
-If you found value and like this analysis and wanna get more analysis every week, Then you can consider to Subscribe [Finovatic](https://finovatic.beehiiv.com).
+If you like this analysis and wanna get more, Then you can consider to Subscribe [Finovatic](https://finovatic.beehiiv.com).
 
 ---
 
-*Last Updated: December 15, 2025 | Share this analysis if it helped you think about gold’s weekly structure.*
+*Last Updated: September 18, 2026 | Share this analysis if it helped you think about gold’s weekly structure.*
