@@ -13,10 +13,6 @@ buildExpired: false
 # Pagination
 pagerSize: 10
 
-# Permalinks (SEO-friendly URLs)
-permalinks:
-  posts: /:year/:month/:slug/
-
 # Sitemap configuration
 sitemap:
   changefreq: weekly
