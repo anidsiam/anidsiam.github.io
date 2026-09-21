@@ -1,6 +1,6 @@
 baseURL: "https://anidsiam.github.io/"
 languageCode: en-us
-title: '@anidsiam'
+title: 'Onidul Islam Siyam'
 theme: PaperMod
 
 # Enable features
@@ -49,6 +49,9 @@ params:
     - anidsiam
     - anid
     - siam
+    - onidul
+    - onidul islam
+    - siyam
     - statistical analyst
     - statistical analyst and machine learning model developer
     - statistical analyst and machine learning model training
