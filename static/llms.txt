@@ -1,0 +1,32 @@
+# Anid Siam — anidsiam.github.io
+
+> Personal blog by Onidul Islam Siyam covering Technology, AI and ML, Quantum Computing, Brain-Computer Interface, Programming, Robotics, Indie Hacking, and more.
+
+## About
+
+- Author: Onidul Islam Siyam (@anidsiam)
+- Website: https://anidsiam.github.io/
+- Topics: Technology, AI & ML, Quantum Computing, Brain-Computer Interface, Programming, Indie Hacking, Web Development, Finance
+
+## Blog Posts
+
+- [Neuralink VOICE Trial: ALS Patient Speaks Again with Brain Implant](https://anidsiam.github.io/blogs/neuralink-update/): Neuralink's VOICE clinical trial helps ALS patient Kenneth Shock turn thoughts into spoken words using the N1 brain implant.
+- [Brain Computer Interface (BCI): Complete Guide 2026](https://anidsiam.github.io/blogs/brain-computer-interface-complete-guide-2026/): Complete guide to BCI technology — how Neuralink, Synchron, and others are connecting brains to computers.
+- [Quantum Computer Price in 2026](https://anidsiam.github.io/blogs/quantum-computer-price-cost-guide-2026/): How much quantum computers cost, from $5,000 educational systems to $100 million enterprise machines.
+- [Why You Should Become an Indie Hacker in 2026](https://anidsiam.github.io/blogs/why-become-indie-hacker-2026/): Build your own SaaS and escape the 9-to-5 as a solo entrepreneur.
+- [Build a Website for Only $10.88 a Year](https://anidsiam.github.io/blogs/website-cost-10-dollars-year-free-hosting/): Free static site hosting with custom domain using Hugo, Netlify, and GitHub Pages.
+- [Easiest Programming Language for Beginners in 2026](https://anidsiam.github.io/blogs/programming-for-beginners-2026/): Honest advice on choosing your first programming language and avoiding common beginner mistakes.
+- [Gold Technical Analysis: Nine Candle Pattern](https://anidsiam.github.io/blogs/gold-nine-candle-analysis/): A different kind of technical analysis about Gold, adjusted with Gareth Soloway's weekly chart methodology.
+
+## Pages
+
+- [About](https://anidsiam.github.io/about/): Learn about Onidul Islam Siyam.
+- [Privacy Policy](https://anidsiam.github.io/privacy/): Privacy policy for the website.
+
+## Social
+
+- GitHub: https://github.com/anidsiam
+- LinkedIn: https://www.linkedin.com/in/anidsiam/
+- X/Twitter: https://x.com/anidsiam
+- Facebook: https://www.facebook.com/anidsiam
+- Instagram: https://www.instagram.com/anidsiam/

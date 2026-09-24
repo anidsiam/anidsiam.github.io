@@ -2,6 +2,7 @@ baseURL: "https://anidsiam.github.io/"
 languageCode: en-us
 title: 'Onidul Islam Siyam'
 theme: PaperMod
+googleAnalytics: "G-JE485VM21D"
 
 # Enable features
 enableRobotsTXT: true
@@ -9,6 +10,7 @@ enableEmoji: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+disableKinds: [taxonomy, term]
 
 # Pagination
 pagerSize: 10
@@ -135,9 +137,9 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowArchives: true
-  ShowCategories: true
-  ShowTags: true
-  ShowSeries: true
+  ShowCategories: false
+  ShowTags: false
+  ShowSeries: false
   ShowLastUpdated: true
   ShowAuthor: true
   ShowDate: true
@@ -173,7 +175,6 @@ params:
   analytics:
     google:
       SiteVerificationTag: "k8k8MFD4AaYmBc1aed-KpKtD_5D4iKjs0evTOJ7d9os"
-      id: "G-JE485VM21D"
   
   
 
@@ -197,22 +198,14 @@ menu:
       name: Blogs
       url: /blogs/
       weight: 1
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 2
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 3
     - identifier: about
       name: About
       url: /about/
-      weight: 4
+      weight: 2
     - identifier: privacy
       name: Privacy
       url: /privacy/
-      weight: 5
+      weight: 3
 
 # Privacy (GDPR compliance)
 privacy:
@@ -221,7 +214,7 @@ privacy:
   googleAnalytics:
     anonymizeIP: true
     disable: false
-    respectDoNotTrack: true
+    respectDoNotTrack: false
     useSessionStorage: true
 
 # Markup

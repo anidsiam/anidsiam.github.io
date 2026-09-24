@@ -2,6 +2,7 @@
 date = '2025-12-23T10:32:53+06:00'
 draft = false
 title = 'Privacy'
+description = 'Privacy Policy for anidsiam.github.io — how your data is collected, used, and protected when you visit this website.'
 url = '/privacy/'
 ShowToc = true
 +++
@@ -146,16 +147,6 @@ I encourage you to review this Privacy Policy periodically.
 If you have questions about this Privacy Policy, please contact:
 
 - **Email:** anidsiam@hotmail.com
-
----
-
-## Legal Compliance
-
-This privacy policy complies with:
-- General Data Protection Regulation (GDPR)
-- California Consumer Privacy Act (CCPA)
-- CAN-SPAM Act
-- Other applicable privacy laws
 
 ---
 

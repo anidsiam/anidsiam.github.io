@@ -2,6 +2,7 @@
 date = '2025-12-23T10:27:06+06:00'
 draft = false
 title = 'About'
+description = 'Learn about Onidul Islam Siyam — developer, tech enthusiast, AI data trainer, and blogger writing about technology, AI and ML, quantum computing, and brain-computer interfaces.'
 url = '/about/'
 ShowToc = false
 +++
@@ -17,9 +18,18 @@ I believe in:
 - **Continuous Learning** - Sharing what I learn along the way
 - **Community** - Building connections with fellow tech enthusiasts
 
-### Currently Growing:
+### Currently Working On:
 
 - AI and ML Network: https://aiandml.net
+
+### Currently Learning:
+- AI and ML (Machine Learning)
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Robotics
+- Blockchain
+- Quantum Computing
 
 ### Get in Touch
 
