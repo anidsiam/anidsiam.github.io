@@ -34,11 +34,6 @@ outputs:
     - RSS
     - JSON
 
-# Minify output
-minify:
-  disableXML: true
-  minifyOutput: true
-
 params:
   env: production
   title: Anid Siam
