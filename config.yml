@@ -117,6 +117,7 @@ params:
 
   mainSections:
     - blogs
+    - posts
 
   # Images for social sharing
   images:
@@ -189,18 +190,22 @@ related:
 # Menu
 menu:
   main:
-    - identifier: posts
+    - identifier: blogs
       name: Blogs
       url: /blogs/
       weight: 1
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 2
     - identifier: about
       name: About
       url: /about/
-      weight: 2
+      weight: 3
     - identifier: privacy
       name: Privacy
       url: /privacy/
-      weight: 3
+      weight: 4
 
 # Privacy (GDPR compliance)
 privacy:

@@ -24,12 +24,8 @@ I believe in:
 
 ### Currently Learning:
 - AI and ML (Machine Learning)
-- Deep Learning
-- Natural Language Processing
 - Computer Vision
 - Robotics
-- Blockchain
-- Quantum Computing
 
 ### Get in Touch
 
