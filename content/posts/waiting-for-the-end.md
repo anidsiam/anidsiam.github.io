@@ -2,7 +2,7 @@
 title = "Waiting For the End"
 date = 2025-09-13T10:00:00+06:00
 draft = false
-description = "Reflection on guilt, regret, and moving on: inspired by Linkin Park's 'Waiting For the End' and Emily Armstrong's raw presence on stage."
+description = "Reflection on guilt, regret, and moving on: Linkin Park's 'Waiting For the End' and Emily Armstrong's raw presence on stage."
 slug = "waiting-for-the-end"
 tags = ["personal", "reflection", "creative writing", "music", "linkin-park", "self-expression"]
 categories = ["Creative Writing"]
