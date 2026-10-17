@@ -50,7 +50,7 @@ ShowShareButtons = true
   wordCount = "100"
 +++
 
-# Ultimate Search
+## Seeking Light Beyond the Grey
 
 ---
 

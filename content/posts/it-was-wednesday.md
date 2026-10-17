@@ -50,7 +50,7 @@ ShowShareButtons = true
   wordCount = "350"
 +++
 
-# It Was Wednesday
+## A Rough Day, an Encounter, and Clarity
 
 ---
 

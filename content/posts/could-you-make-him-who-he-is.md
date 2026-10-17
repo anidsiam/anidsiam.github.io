@@ -50,7 +50,7 @@ ShowShareButtons = true
   wordCount = "250"
 +++
 
-# Could You Make Him Who He Is?
+## Questions on Forgiveness and Renewal
 
 ---
 

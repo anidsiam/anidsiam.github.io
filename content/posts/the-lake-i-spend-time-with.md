@@ -59,7 +59,7 @@ ShowShareButtons = true
   hidden = false
 +++
 
-# The Lake, Often I Spend Time With
+## Solitude, Mistakes, and Quiet Waters
 
 ---
 

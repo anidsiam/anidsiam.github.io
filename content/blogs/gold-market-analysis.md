@@ -59,8 +59,6 @@ ShowShareButtons = true
   hidden = false
 +++
 
-# A Different kind of Technical Analysis about Gold; adjusted with Gareth Soloway
-
 I have been watching a technical analysis video at Kitconews Youtube channel, The analyst was Geareth Soloway invited by Kitconews, Gareth describing his technical analytical philosophy about Gold, silver, copper, BTC, S&P, Amazon, Apple, Palantir etc. in his screen with Candlestick Chart. Few days later he also share the same Gold analysis in his personal Youtube channel. I found when he was showing his analysis about Gold; was describing a very interesting kind of technical analogy in candlestick chart for two different time period. He have been in weekly chart and there was two window in his chart, one is end of 1979 and one is nowadays end of 2025 chart. I just impressed after watching this analysis and **I immediately jump on gold chart to play with this kind of hot analogy and what I found is that you would probably love if you are really involve with Gold and believe in Gold**.
 
 {{< figure src="/img/1979and2025.png" alt="1979and2025" caption="Gold weekly chart analogy between 1979 and 2025 on Gareth's Screen" >}}

@@ -10,8 +10,6 @@ keywords: ["neuralink als speech", "neuralink voice trial", "kenneth shock neura
 focus_keyword: "neuralink voice trial als patient speech"
 ---
 
-# Neuralink VOICE Trial: ALS Patient Speaks Again with Brain Implant – Kenneth Shock Story
-
 Imagine losing your voice bit by bit because of a tough disease like ALS. Simple chats with family become exhausting. Shopping or calling a friend? Forget it. That's what happened to Kenneth Shock. But now, thanks to Neuralink's VOICE trial, he's talking again – straight from his thoughts.
 
 This fresh update from Neuralink shows real hope for speech restoration. Kenneth, diagnosed with ALS in 2024, became the second person in their VOICE clinical trial to get the N1 brain implant. In January 2026, surgeons placed the tiny chip in his brain. Today, he can say things like "I am the man who speaks with his mind" without moving his lips. It's not sci-fi anymore. It's happening right now.

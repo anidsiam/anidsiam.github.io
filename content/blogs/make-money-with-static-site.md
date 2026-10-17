@@ -47,8 +47,6 @@ aliases = ["/cheap-website-hosting", "/free-static-hosting-guide"]
   wordCount = "3800"
 +++
 
-# Build a Custom Website for Only $10.88 a Year: Free Static Site web Hosting
-
 If you are someone who wants to make your personal website or Blog website, how to make money with static website, how to to get monetization in static website, add affiliate links, put sponsors and how to make money with static website, You can make it easily with all free and great resources, the only cost is to register a custom domain name. Of course there are some limitations: your site would not be a dynamic site, it will be a static site, So if it's not a big or commercial need or SaaS then you can get an easy and secure site after reading this article. There are two ways to do that one is writing manual HTML and CSS code another is using SSG (static site generator).
 
 ## Prerequisite 
