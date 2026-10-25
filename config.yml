@@ -155,15 +155,19 @@ params:
   # Social
   socialIcons:
     - name: GitHub
-      url: "https://github.com/anidsiam"
+      url: "https://github.com/anidsiam/"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/anidsiam/"
     - name: X
-      url: "https://x.com/anidsiam"
+      url: "https://x.com/williamstockson/"
     - name: Facebook
-      url: "https://www.facebook.com/anidsiam"
+      url: "https://www.facebook.com/anidsiam/"
     - name: Instagram
       url: "https://www.instagram.com/anidsiam/"
+    - name: Medium
+      url: "https://medium.com/@anidsiam/"
+    - name: Substack
+      url: "https://substack.com/@anidsiam/"
     - name: RSS
       url: "/index.xml"
 
