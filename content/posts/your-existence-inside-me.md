@@ -1,6 +1,6 @@
 +++
 title = "Your Existence Inside Me"
-date = 2026-10-25T21:00:00+06:00
+date = 2024-10-20T21:00:00+06:00
 draft = false
 description = "A quiet reflection on acceptance, emotional endurance, and nine years of carrying an enduring presence."
 slug = "your-existance-inside-me"
