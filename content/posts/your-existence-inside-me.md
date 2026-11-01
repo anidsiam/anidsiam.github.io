@@ -44,7 +44,7 @@ ShowShareButtons = true
 [params.schema]
   type = "Article"
   headline = "Your Existence Inside Me"
-  datePublished = "2026-10-25"
+  datePublished = "2024-10-20"
   dateModified = "2026-10-25"
   articleSection = "Creative Writing"
   wordCount = "110"
