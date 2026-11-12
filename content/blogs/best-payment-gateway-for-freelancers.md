@@ -390,13 +390,7 @@ As of 2026, IT and ITES export income is fully tax exempt in Bangladesh until Ju
 
 **YouTube, Reddit, Google play and Apple App store reviews and walkthroughs:**
 
-Search YouTube, Reddit and Google for: "WorldFirst World Account review Bangladesh" or "Elevate Pay bKash withdrawal review" or "nsave virtual card review Bangladesh"
-
-**Official platform pages:**
-
-- WorldFirst World Account: [https://worldfirst.com](https://s.worldfirst.com/2kY9qG?default_source=WF-Vk00000tIOoz&referral_id=WF-Vk00000tIOoz)
-- Elevate Pay: [https://elevatepay.co](https://elevatepay.co/ref?r=onisiy1)
-- nsave: [https://nsave.com](https://web.nsave.com/invite/onidul_islam)
+Search YouTube, Reddit and Google for: "WorldFirst World Account review" or "Elevate Pay withdrawal review" or "nsave virtual card review"
 
 ---
 
